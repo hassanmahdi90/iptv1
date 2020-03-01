@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="4K" tvg-name="BEIN_4K" tvg-logo="http://universeiptv.org/pics/bein-4k.png" group-title="BEIN",BEIN_4K
+http://universe-ip.com:8000/fmww3c3g/bhy65mc5/33321
+#EXTINF:-1 tvg-ID="HD1" tvg-name="BEIN_SPORT_1_HD" tvg-logo="http://universeiptv.org/pics/be_in_tr_sports_01_hd.png" group-title="BEIN",BEIN_SPORT_1_HD
+http://universe-ip.com:8000/fmww3c3g/bhy65mc5/858
+#EXTINF:-1 tvg-ID="HD2" tvg-name="BEIN_SPORT_2_HD" tvg-logo="http://universeiptv.org/pics/bein_hd2.png" group-title="BEIN",BEIN_SPORT_2_HD
+http://universe-ip.com:8000/fmww3c3g/bhy65mc5/859
+#EXTINF:-1 tvg-ID="HD3" tvg-name="BEIN_SPORT_3_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_03_hd.png" group-title="BEIN",BEIN_SPORT_3_HD
+http://universe-ip.com:8000/fmww3c3g/bhy65mc5/860
+#EXTINF:-1 tvg-ID="HD4" tvg-name="BEIN_SPORT_4_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_04_hd.png" group-title="BEIN",BEIN_SPORT_4_HD
+http://universe-ip.com:8000/fmww3c3g/bhy65mc5/861
+#EXTINF:-1 tvg-ID="HD5" tvg-name="BEIN_SPORT_5_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_05_hd.png" group-title="BEIN",BEIN_SPORT_5_HD
+http://universe-ip.com:8000/fmww3c3g/bhy65mc5/862
+#EXTINF:-1 tvg-ID="HD6" tvg-name="BEIN_SPORT_6_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_06_hd.png" group-title="BEIN",BEIN_SPORT_6_HD
+http://universe-ip.com:8000/fmww3c3g/bhy65mc5/863
+#EXTINF:-1 tvg-ID="HD7" tvg-name="BEIN_SPORT_7_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_07_hd.png" group-title="BEIN",BEIN_SPORT_7_HD
+http://universe-ip.com:8000/fmww3c3g/bhy65mc5/864
+#EXTINF:-1 tvg-ID="HD8" tvg-name="BEIN_SPORT_8_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_08_hd.png" group-title="BEIN",BEIN_SPORT_8_HD
+http://universe-ip.com:8000/fmww3c3g/bhy65mc5/865
+#EXTINF:-1 tvg-ID="HD9" tvg-name="BEIN_SPORT_9_HD" tvg-logo="http://universeiptv.org/pics/be_in_mena_sports_09_hd.png" group-title="BEIN",BEIN_SPORT_9_HD
+http://universe-ip.com:8000/fmww3c3g/bhy65mc5/866
